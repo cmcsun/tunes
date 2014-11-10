@@ -1,4 +1,4 @@
 tunes
 =====
 
-music
+Short C programs to generate beautiful melodies
