@@ -4,7 +4,7 @@ Short C programs to generate beautiful melodies
 
 ##How does this even work?
 
-Here's [Algorithmic Symphonies from one line of C code](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html "how")
+Here's [how](http://countercomplex.blogspot.com/2011/10/algorithmic-symphonies-from-one-line-of.html "Algorithmic Symphonies from one line of C code")
 
 abelson.c - Hal Abelson's Song. It's ``Abelson Good!''
  
